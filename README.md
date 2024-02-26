@@ -1,3 +1,5 @@
+# \ (^o^) /
+
 <p align="left">
   <a href="https://github.com/5C6F2F">
     <img height="20" src="https://img.shields.io/github/followers/5C6F2F?label=follow&logo=github&style=flat" />
