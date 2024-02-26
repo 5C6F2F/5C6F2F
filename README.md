@@ -23,6 +23,8 @@
     height="150px"
     src="https://github-readme-stats.vercel.app/api?username=5C6F2F&count_private=true&show_icons=true&show_icons=true"
   />
+</p>
+<p>
   <a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5C6F2F" />
   </a>
