@@ -14,6 +14,11 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/5C6F2F/contributions.svg" />
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=rust,python,js,ts,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,vim,github,git,docker)](https://skillicons.dev)
+
 <p>
   <img
     alt="Most Used Languages"
