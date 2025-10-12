@@ -15,9 +15,9 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,python,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,js,ts,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,vim,github,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,vscode,vim,github,git,docker)](https://skillicons.dev)
 
 <p>
   <img
